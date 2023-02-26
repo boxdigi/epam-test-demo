@@ -1,4 +1,5 @@
 something 
 some words to the new file
-
 the second stage
+
+some new words
